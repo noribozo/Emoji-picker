@@ -1,0 +1,53 @@
+html {
+  height: 100vh;
+  font-family: "Baloo";
+}
+
+body {
+  padding: 10px;
+  background-image: linear-gradient(#0502f0, #fff);
+  text-align: center;
+  
+}html {
+  height: 100vh;
+  font-family: "Baloo";
+}
+
+
+#container {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+h1 {
+  color: #fff;
+  
+}
+#emoji-container {
+ 
+  margin: 40px;
+  text-align: center;
+}
+
+#emoji-container span {
+  margin: 10px; 
+  font-size: 60px;
+}
+
+.btn{
+  margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#push-btn, #unshift-btn{
+  background-color: #fcdb05;
+  color: #ad0712;
+  
+}
+
+#pop-btn, #shift-btn {
+  color: #fcdb05;
+  background-color: #ad0712;
+  
+}
